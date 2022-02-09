@@ -381,6 +381,6 @@ _Note :_
 _Untuk mendapatkan audio surah nya kalian hanya ketik */audiosurah* <nomor surah>_
 _Contoh : */audiosurah* 1_
 
-──── ◪ *HANN - SYKES* ◪ ─────`
+──── ◪ *F I R A B O T* ◪ ─────`
 }
 exports.surah = surah
